@@ -1,0 +1,5 @@
+home,max_items,type,switched_on,option
+ahsan r,10,SmartPlug,True,10
+ahsan r,10,SmartDoor,False,True
+ahsan r,10,SmartAirFryer,False,Defrost
+a,10,,,
